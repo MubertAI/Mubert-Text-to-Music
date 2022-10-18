@@ -1,7 +1,7 @@
 # Mubert-Text-to-Music
 Colab notebooks demonstrating prompt-based music generation via Mubert API
 
-[**WATCH DEMO**](https://youtu.be/Kr17gz-DmAs)
+[**WATCH DEMO**](https://youtu.be/YJu0iXn-T_U)
 
 ### [Mubert Text-to-Music](Mubert_Text_to_Music.ipynb)
 
