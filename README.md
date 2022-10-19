@@ -10,3 +10,5 @@ A simple demo offering music generation by prompt and duration
 ### [Stable Diffusion + Mubert](Deforum_Stable_Diffusion_Mubert.ipynb)
 
 A demo of instant prompt-based music video generation based on Deforum Stable Diffusion colab
+
+All music owned by Mubert Inc. Please visit mubert.com/ for commercial licensing inquiries.
