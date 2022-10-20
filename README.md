@@ -26,6 +26,6 @@ All sounds (separate loops for bass, leads etc.) are created by musicians and so
 
 Our proprietary technology is able to analyze and select relevant sounds, as well as build arrangements and compositions from them. In this demo, you can set up what you need, a looped track or a track with a start and end.
 
-A custom license works for colab. You can use the music for free with attribution to sync with images and videos, but you can't release it on DSPs as your own. We also ask you to mention @mubertapp and hashtag #mubert. If you need a commercial license — please contact us.
+**A custom license works for colab. You can use the music for free with attribution to sync with images and videos, but you can't release it on DSPs as your own. We also ask you to mention @mubertapp and hashtag #mubert. If you need a commercial license — please contact us.**
 
 This is our first step towards creating a more complex and accurate generation algorithm, but for this we will need time and resources. All your feedback will be very useful, so feel free to write us in the replies or in a PM about your user experience. Have fun!
