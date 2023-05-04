@@ -1,0 +1,5 @@
+mubert.create_track('piano')
+mubert.add_chords(['Am', 'F', 'C', 'G'])
+mubert.add_melody('piano', ['C', 'D', 'E', 'F', 'G', 'A', 'B'])
+mubert.add_percussion('drums', ['kick', 'snare', 'hihat'])
+mubert.add_bassline('bass', ['A', 'F', 'C', 'G'])
